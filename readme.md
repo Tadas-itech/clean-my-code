@@ -1,0 +1,1 @@
+This repo is used for bad code examples and how they can be cleaned
